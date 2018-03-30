@@ -1,0 +1,8 @@
+E:\Projetos\GearAPI.NET\obj\Debug\GearFramework.csproj.CoreCompileInputs.cache
+E:\Projetos\GearAPI.NET\bin\Debug\GearAPI.dll
+E:\Projetos\GearAPI.NET\bin\Debug\GearAPI.pdb
+E:\Projetos\GearAPI.NET\bin\Debug\Newtonsoft.Json.xml
+E:\Projetos\GearAPI.NET\obj\Debug\GearFramework.csprojResolveAssemblyReference.cache
+E:\Projetos\GearAPI.NET\obj\Debug\GearFramework.csproj.CopyComplete
+E:\Projetos\GearAPI.NET\obj\Debug\GearAPI.dll
+E:\Projetos\GearAPI.NET\obj\Debug\GearAPI.pdb
